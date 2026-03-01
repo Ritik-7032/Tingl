@@ -4,13 +4,6 @@
 A modern full-stack chat application built with the MERN stack, featuring real-time messaging, authentication, email integration, and cloud storage.
 </p>
 
----
-
-## 📸 Demo
-
-![App Screenshot](./frontend/public/screenshot-for-readme.png)
-
----
 
 ## ✨ Features
 
